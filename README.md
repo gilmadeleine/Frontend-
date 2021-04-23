@@ -1,2 +1,2 @@
 # Frontend-
-Frontend Coding Practice for Web designers
+Frontend Coding Practice for Web Designers
